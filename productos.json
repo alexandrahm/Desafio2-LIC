@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "price": 10.99,
+        "description": "A novel by Harper Lee published in 1960. Instantly successful, widely read in high schools and middle schools in the United States.",
+        "category": "classic",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTo_Kill_a_Mockingbird&psig=AOvVaw3EvnkXIKeRvkvVazZO1VEY&ust=1717443072034000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjMzpPUvYYDFQAAAAAdAAAAABAE",
+        "rating": {
+            "rate": 4.8,
+            "count": 5000
+        }
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "price": 8.99,
+        "description": "A dystopian social science fiction novel and cautionary tale, written by the English writer George Orwell.",
+        "category": "horror",
+        "image": "http://bookcover.longitood.com/bookcover?book_title=The+Pale+Blue+Dot&author_name=Carl+Sagan",
+        "rating": {
+            "rate": 4.6,
+            "count": 3500
+        }
+    },
+    {
+        "id": 3,
+        "title": "Moby Dick",
+        "price": 12.99,
+        "description": "An 1851 novel by Herman Melville. The story tells the adventures of wandering sailor Ishmael, and his voyage on the whaleship Pequod.",
+        "category": "classic",
+        "image": "http://bookcover.longitood.com/bookcover?book_title=The+Pale+Blue+Dot&author_name=Carl+Sagan",
+        "rating": {
+            "rate": 4.0,
+            "count": 2100
+        }
+    },
+    {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "price": 6.99,
+        "description": "A romantic novel of manners written by Jane Austen in 1813. The novel follows the character development of Elizabeth Bennet.",
+        "category": "classic",
+        "image": "http://bookcover.longitood.com/bookcover?book_title=The+Pale+Blue+Dot&author_name=Carl+Sagan",
+        "rating": {
+            "rate": 4.5,
+            "count": 4800
+        }
+    },
+    {
+        "id": 5,
+        "title": "The Great Gatsby",
+        "price": 10.99,
+        "description": "A 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, the novel depicts narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby.",
+        "category": "literature",
+        "image": "http://bookcover.longitood.com/bookcover?book_title=The+Pale+Blue+Dot&author_name=Carl+Sagan",
+        "rating": {
+            "rate": 4.3,
+            "count": 3000
+        }
+    },
+    {
+        "id": 6,
+        "title": "War and Peace",
+        "price": 14.99,
+        "description": "A novel by the Russian author Leo Tolstoy, published from 1865 to 1869. It is regarded as one of Tolstoy's finest works and as one of the greatest novels ever written.",
+        "category": "literature",
+        "image": "http://bookcover.longitood.com/bookcover?book_title=The+Pale+Blue+Dot&author_name=Carl+Sagan",
+        "rating": {
+            "rate": 4.7,
+            "count": 2200
+        }
+    },
+    {
+        "id": 7,
+        "title": "Crime and Punishment",
+        "price": 9.99,
+        "description": "A novel by the Russian author Fyodor Dostoevsky. It was first published in the literary journal The Russian Messenger in twelve monthly installments during 1866.",
+        "category": "horror",
+        "image": "http://bookcover.longitood.com/bookcover?book_title=The+Pale+Blue+Dot&author_name=Carl+Sagan",
+        "rating": {
+            "rate": 4.6,
+            "count": 3100
+        }
+    },
+    {
+        "id": 8,
+        "title": "The Catcher in the Rye",
+        "price": 8.99,
+        "description": "A novel by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951. It is about teenage angst and alienation.",
+        "category": "literature",
+        "image": "http://bookcover.longitood.com/bookcover?book_title=The+Pale+Blue+Dot&author_name=Carl+Sagan",
+        "rating": {
+            "rate": 4.2,
+            "count": 2900
+        }
+    },
+    {
+        "id": 9,
+        "title": "The Odyssey",
+        "price": 11.99,
+        "description": "One of two major ancient Greek epic poems attributed to Homer. It is, in part, a sequel to the Iliad, the other work ascribed to Homer.",
+        "category": "literature",
+        "image": "http://bookcover.longitood.com/bookcover?book_title=The+Pale+Blue+Dot&author_name=Carl+Sagan",
+        "rating": {
+            "rate": 4.5,
+            "count": 3200
+        }
+    },
+    {
+        "id": 10,
+        "title": "The Divine Comedy",
+        "price": 13.99,
+        "description": "A long Italian narrative poem by Dante Alighieri, begun in 1308 and completed in 1320, a year before his death in 1321.",
+        "category": "literature",
+        "image": "http://bookcover.longitood.com/bookcover?book_title=The+Pale+Blue+Dot&author_name=Carl+Sagan",
+        "rating": {
+            "rate": 4.9,
+            "count": 1800
+        }
+    }
+]
